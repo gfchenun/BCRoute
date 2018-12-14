@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version          = "1.0.0"
   s.summary          = "iOS Routekit"
   s.description      = <<-DESC.gsub(/^\s*\|?/,'')
-                       An optional longer description of DiDiMap
+                       An optional longer description of BCRoute
 
                        | * Markdown format.
                        | * Don't worry about the indent, we strip it!
